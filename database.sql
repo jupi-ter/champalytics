@@ -254,5 +254,5 @@ insert into abilities values ("Nasus", "Soul Sater", "Siphoning Strike", "Wither
 ("Trundle", "King's Tribute", "Chomp", "Frozen Domain", "Pillar of Ice", "Subjugate"),
 ("Tryndamere", "Battle Fury", "Bloodlust", "Mocking Shout", "Spining Slash", "Undying Rage"),
 ("Twisted Fate","Loaded Dice", "Wildcards", "Pick a Card", "Stacked Deck", "Destiny"),
-("Twitch, "Deadly Venom", "Ambush", "Venom Cask", "Contaminate", "Spray and Pray"),
+("Twitch", "Deadly Venom", "Ambush", "Venom Cask", "Contaminate", "Spray and Pray"),
 
