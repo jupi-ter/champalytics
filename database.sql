@@ -201,8 +201,7 @@ insert into champions values ("Aatrox", "Fighter", "Top", "Melee", "Physical"),
  ("Zoe", "Mage", "Mid", "Ranged", "Magical"),
  ("Zyra", "Mage", "Support", "Ranged", "Magical");
 
-
-insert into abilities values ("Nasus", "Soul Sater", "Siphoning Strike", "Withering Strike", "Spirit Fire", "Fury of the Sands"),
+insert into abilities values ("Nasus", "Soul Eater", "Siphoning Strike", "Withering Strike", "Spirit Fire", "Fury of the Sands"),
 ("Nautilus","Staggering Blow", "Dredge Line", "Titan's Wrath", "Riptide", "Depth Charge"),
 ("Neeko", "Inherent Glamour", "Blooming Burst", "Shapesplitter", "Tangle-Barbs", "Pop Blossom"),
 ("Nidalee","Prowl", "Javelin Toss/Takedown", "Bushwhack/Pounce", "Primal Surge/Swipe", "Aspect Of The Cougar"),
@@ -254,5 +253,4 @@ insert into abilities values ("Nasus", "Soul Sater", "Siphoning Strike", "Wither
 ("Trundle", "King's Tribute", "Chomp", "Frozen Domain", "Pillar of Ice", "Subjugate"),
 ("Tryndamere", "Battle Fury", "Bloodlust", "Mocking Shout", "Spining Slash", "Undying Rage"),
 ("Twisted Fate","Loaded Dice", "Wildcards", "Pick a Card", "Stacked Deck", "Destiny"),
-("Twitch", "Deadly Venom", "Ambush", "Venom Cask", "Contaminate", "Spray and Pray"),
-
+("Twitch", "Deadly Venom", "Ambush", "Venom Cask", "Contaminate", "Spray and Pray");
